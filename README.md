@@ -26,7 +26,7 @@ Somos Lucas Amarillo, Damian Coronel y Cesar Robledo realizando nuestro proyecto
 - El diseño busca generar coherencia mediante el uso de colores y unificación de tipografías. Las mayoria de las imágenes son svg o jpg para optimizar la web.
 - Se incluyen títulos de archivos con SEO y alt text.
 
-## Skills
+## HABILIDADES
 - 🌐 Html,
 - 🎨 Css, 
 - 🖥️ JavaScript
@@ -34,7 +34,7 @@ Somos Lucas Amarillo, Damian Coronel y Cesar Robledo realizando nuestro proyecto
 - 📦 Boostrap
 - 🖼️ Iframe
 
-## Contact
+## Contacto
 - 👦 [@Lucas-Amarillo](https://github.com/LucasAmarillo)
 - 👦 [@Damian-Coronel](https://github.com/damiancoronelburgos)
 - 👦 [@Cesar-Robledo](https://github.com/Cesar-Robledo) 
